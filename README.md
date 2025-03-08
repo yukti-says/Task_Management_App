@@ -13,7 +13,7 @@ A simple yet powerful Python-based Task Management App with prioritization, recu
 bash
 Copy
 Edit
-git clone https://github.com/yukti_says/task-manager.git
+git clone https://github.com/yukti_says/Task-Management_App.git
 cd task-manager
 
 2️⃣ Run the App
